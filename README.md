@@ -19,10 +19,14 @@ Readers can leave comments on posts to engage with the author and other readers.
 4. Post Categorization and Tags:
 Posts can be categorized and tagged for easy search and navigation.
 
+Collaborators:
 
-5. Search Functionality:
+If anyone want to contribute to this project feel free to reach me on linkedin
+
+
+6. Search Functionality:
 Users can search for posts by title, category, or tag.
 
 
-6. Responsive Design:
+7. Responsive Design:
 The website is fully responsive and works across all devices (mobile, tablet, desktop).
